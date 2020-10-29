@@ -4,8 +4,8 @@
 
 This program takes the command line and create request and send it to the server.
 The request include the flags- 	
-    # '-r' (format: <n> name=value...) witch are the variables of the path.
-		# '-p' (format: <text>) witch the program calculates it's length and take the text itself.
+	# '-r' (format: <n> name=value...) witch are the variables of the path.\n
+	# '-p' (format: <text>) witch the program calculates it's length and take the text itself.
 
 								
 **********Functions**********
